@@ -102,14 +102,5 @@ const me = {
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="streak" width="48%" />
-</p>
-
----
-
 <h3 align="center">Thanks for stopping by 👀</h3>
 
