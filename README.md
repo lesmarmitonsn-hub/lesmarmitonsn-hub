@@ -36,6 +36,14 @@ const me = {
 
 ---
 
+### 🌐 Get in Touch
+
+<p align="left">
+<a href="https://www.linkedin.com/in/oawouele" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hello@oliviersandi.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://oliviersandi.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
 ### 💻 Tech Stack
 
 #### 🗣️ Languages
