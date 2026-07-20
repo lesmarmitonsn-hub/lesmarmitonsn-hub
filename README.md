@@ -67,14 +67,6 @@ const me = {
 <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-
-#### 📱 Mobile
-
-<p align="left">
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
 #### 🤖 AI / ML
 
 <p align="left">
