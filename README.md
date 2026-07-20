@@ -70,6 +70,7 @@ const me = {
 <p align="left">
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
 📱 Mobile
