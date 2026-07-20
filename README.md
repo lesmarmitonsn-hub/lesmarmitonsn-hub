@@ -27,7 +27,7 @@ const me = {
   location       : "Dakar, Sénégal",
   role           : "AI & Data Consulting",
   education      : "Information Systems Management",
-  currentFocus   : ["AI", "ML", "DATA"],
+  currentFocus   : ["AI-powered web app", "Open-source full-stack", "Mobile apps"],
   openTo         : ["Innovation", "R&D"],
   contact        : "hello@oliviersandi.com",
   portfolio      : "https://oliviersandi.com",
